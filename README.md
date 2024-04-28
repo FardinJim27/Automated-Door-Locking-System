@@ -3,7 +3,7 @@
 ## Tinkercasd file link:
 https://www.tinkercad.com/things/g2rsNZpNFaa-copy-of-password-based-door-lock/editel?sharecode=6fSWP4h6xiYA3rxh-HKkVVD_D-0FsgnX0ZF56wtYDRE&fbclid=IwZXh0bgNhZW0CMTAAAR2pGlIuEAPmcxJQmQGAHsi4Ka61xvOH7fruSwgkmri_0MbzVqI8WDLMHvw_aem_AdlAU8k1DE5YyIR9iW5OEsFP7sJjVIouNLW-0dL6ixMLahmDgkozd3ev745TkYET83pDGOOMl-GcV1T2_80mGWOk
 
-##Electronic Components Connections:
+## Electronic Components Connections:
 ================
 ## LCD Display With I2C Connections:
   VCC ==== +5V
